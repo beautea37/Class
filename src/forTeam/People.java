@@ -14,9 +14,8 @@ public class People {
 		this.setWin(win);
 		this.setDraw(draw);
 		this.setLose(lose);
-	
 	}
-/////
+
 
 	public int getWin() {
 		return win;
