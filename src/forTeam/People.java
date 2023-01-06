@@ -16,7 +16,7 @@ public class People {
 		this.setLose(lose);
 	
 	}
-
+/////
 
 	public int getWin() {
 		return win;
