@@ -1,5 +1,6 @@
 package basic;
 //212212
+//20230108 0051
 public class ArrayEx {
 
 	public static void main(String[] args) {
