@@ -1,6 +1,6 @@
 package basic;
 import java.io.IOException;
-
+//test
 public class delete {
    public static void main(String[] args) throws IOException {
       int num1 = System.in.read() - 48;
