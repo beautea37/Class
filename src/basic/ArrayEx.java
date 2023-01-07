@@ -1,5 +1,5 @@
 package basic;
-
+//212212
 public class ArrayEx {
 
 	public static void main(String[] args) {
