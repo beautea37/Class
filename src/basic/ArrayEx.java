@@ -3,6 +3,8 @@ package basic;
 //20230108 0051
 
 //20230108 0108
+
+//202301081425
 public class ArrayEx {
 
 	public static void main(String[] args) {
