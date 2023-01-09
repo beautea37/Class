@@ -44,7 +44,7 @@ public class inetEx2_Socket {
 		/*
 		 * 웹브라우저처럼
 		 */
-//		out.println("GET http://" + new String(remoteAddr) + url);
+		out.println("GET http://" + new String(remoteAddr) + url);
 		out.println("GET http://" + ia.getHostName() + url);
 		out.flush();
 
