@@ -106,6 +106,8 @@ public class ObjectInOutEx {
 		System.out.println(p2);
 		System.out.println(arr2);
 		
+		System.out.println("sdfsdfsdf");
+		
 		
 
 		/*

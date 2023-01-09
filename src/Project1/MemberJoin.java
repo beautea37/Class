@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 public class MemberJoin {
 
 	public static void main(String[] args) {
-		File file = new File("E:\\Project\\MemberInfo.txt");
+		File file = new File("D:\\조기제 !! 건들지말아주세용 ㅠㅠ\\MemberInfo.txt");
 		String id = null;
 		String pw = null;
 		try {
