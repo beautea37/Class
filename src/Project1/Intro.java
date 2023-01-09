@@ -37,7 +37,7 @@ public class Intro {
 					// 비밀번호 틀릴 경우
 				} else if (!pw.equals(/* 땡겨올 부분 */"")) {
 					// 틀릴 시 3회 반복분
-
+					
 					int i = 0;
 					while (i < 3) {
 						if (!pw.equals("")) {
@@ -45,6 +45,9 @@ public class Intro {
 							i++;
 							if (i == 3) {
 								JOptionPane.showMessageDialog(null, "비밀번호 입력 횟수가 초과되었습니다.\n 프로그램을 종료합니다.");
+							}	else if(pw.equals("")) {
+								System.out.println("로그인에 성공하였습니다.");
+								break;
 							}
 						} else if (pw.equals("")) {
 							JOptionPane.showMessageDialog(null, "로그인에 성공하였습니다.");
