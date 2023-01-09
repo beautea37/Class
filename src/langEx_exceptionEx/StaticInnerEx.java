@@ -9,14 +9,14 @@ package langEx_exceptionEx;
 
 public class StaticInnerEx {
 
-	int a = 10;
-	private int b = 100;
+	static int a = 10;
+	private static int b = 100;
 	static int c = 200;
 	
-	public int getA() {
+	public static int getA() {
 		return a;
 	}
-	public int getB() {
+	public static int getB() {
 		return b;
 	}
 	static int getC() {
