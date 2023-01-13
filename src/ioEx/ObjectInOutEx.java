@@ -109,52 +109,6 @@ public class ObjectInOutEx {
 		System.out.println("sdfsdfsdf");
 		
 		
-
-		/*
-		 * 풀 잎새 따다가 엮었어요. 예쁜 꽃송이도 넣었구요.
-		 * 그대 노을빛에 머리 곱게 물들면 예쁜 꽃모자 씌워주고 파
-		 * 냇가에 고무신 벗어놓고 흐르는 냇물에 발 담그고
-		 * 언제쯤 그 애가 징검다리를 건널까 하며 가슴은 두근거렸죠
-		 * 흐르는 냇물 위에 노을이 분홍빛 물 들이고 어느새 구름 사이로 저녁 달이 빛나고 있네~
-		 * 노을빛~ 냇물위에 예쁜 꽃모자 떠가는데 어느 작은 산골 소년의 슬픈 사랑 얘기
-		 * 노을빛~ 냇물 위엔 예쁜 꽃모자 떠가는데~ 어느 작은~ 산골 소년의 슬픈 사랑 얘기
-		 */
-		
-		/*
-		 * This is the way you left me, i am not pretending.
-		 * No hope, no love, no glory, no happyending
-		 * 
-		 * This is the way that we love, like its forever.
-		 * Then live the rest of our life,
-		 * both not together..
-		 */
-		/*
-		 * Wrong information always shown by the media.
-		 * Negative images is the main criteria.
-		 * Infecting the young mind is faster than bacteria.
-		 * 
-		 */
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
 		
 		
 		

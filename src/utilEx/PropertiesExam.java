@@ -17,7 +17,7 @@ public class PropertiesExam {
 //		방금 만든 db.properties 불러오는 주문. 여기서 properties에서 빨간색 나오는거 throw IOException
 //		근데	Instream파라미터 값이 null이라고 얘기한다. 그럼 로드 연결 다시 해줘야함.
 //		그게 ClassLoader. 얘를 통해 properties파일에 대한 스트림 생성
-		prop.load(ClassLoader.getSystemResourceAsStream("db.properties"));
+		prop.load(ClassLoader.getSystemResourceAsStream("C:\\members\\Asdf0001.properties"));
 		
 //		url:oracle:thin:@localhost:1521:orcl
 //		driver:oracle.jdbc.driver.OracleDriver
